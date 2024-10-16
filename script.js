@@ -48,6 +48,7 @@ function NEXT() {
 let j = 3; 
 let totalImages = 3; 
 
+console.log("Vahag")
 function PREV() {
     j = j - 1;
     
